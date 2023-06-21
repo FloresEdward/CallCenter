@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687230035867,
+            "name": "C:\\Users\\floed\\Downloads\\nodejs-starter\\logs\\access.2023-06-20.log",
+            "hash": "964ae50acd0c5a12756409e862204824"
+        },
+        {
+            "date": 1687309411743,
+            "name": "C:\\Users\\floed\\Downloads\\nodejs-starter\\logs\\access.2023-06-21.log",
+            "hash": "f4b4c223b29b0b548f71cb56eea31804"
+        }
+    ]
+}
